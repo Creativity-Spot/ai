@@ -8,3 +8,6 @@ cd media/coach/E:DEV2/repo/ai
 # Windows
 Install Anaconda
 https://www.anaconda.com/
+
+# Added pytorch repo
+git add pytorch
