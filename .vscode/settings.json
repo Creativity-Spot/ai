@@ -1,0 +1,12 @@
+{
+    "python.languageServer": "Pylance",
+    "git-blame.gitWebUrl": "",
+    "workbench.view.alwaysShowHeaderActions": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "typescript.tsserver.maxTsServerMemory": 3072,
+    "typescript.tsserver.watchOptions": {
+        "watchFile": "dynamicPriorityPolling"
+    },
+    "javascript.suggest.includeAutomaticOptionalChainCompletions": false,
+    "debug.saveBeforeStart": "none"
+}
